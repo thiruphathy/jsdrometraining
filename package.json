@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/thiruphathy/jsdrometraining/issues"
   },
-  "homepage": "https://github.com/thiruphathy/jsdrometraining#readme"
+  "homepage": "https://github.com/thiruphathy/jsdrometraining#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.8.0",
+    "eslint-plugin-react": "^7.18.3"
+  }
 }
